@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/creative-lab/static/css/main.a617e044.chunk.css",
+    "main.js": "/creative-lab/static/js/main.7e67f63e.chunk.js",
+    "main.js.map": "/creative-lab/static/js/main.7e67f63e.chunk.js.map",
+    "runtime-main.js": "/creative-lab/static/js/runtime-main.5e42602b.js",
+    "runtime-main.js.map": "/creative-lab/static/js/runtime-main.5e42602b.js.map",
+    "static/js/2.2f5cdb62.chunk.js": "/creative-lab/static/js/2.2f5cdb62.chunk.js",
+    "static/js/2.2f5cdb62.chunk.js.map": "/creative-lab/static/js/2.2f5cdb62.chunk.js.map",
+    "static/js/3.200edd1a.chunk.js": "/creative-lab/static/js/3.200edd1a.chunk.js",
+    "static/js/3.200edd1a.chunk.js.map": "/creative-lab/static/js/3.200edd1a.chunk.js.map",
+    "index.html": "/creative-lab/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/creative-lab/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.2f5cdb62.chunk.js.LICENSE.txt": "/creative-lab/static/js/2.2f5cdb62.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e42602b.js",
+    "static/js/2.2f5cdb62.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.7e67f63e.chunk.js"
+  ]
+}
