@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/creative-lab/static/css/main.561b8c23.chunk.css",
-    "main.js": "/creative-lab/static/js/main.b9e28011.chunk.js",
-    "main.js.map": "/creative-lab/static/js/main.b9e28011.chunk.js.map",
+    "main.css": "/creative-lab/static/css/main.7a4794f9.chunk.css",
+    "main.js": "/creative-lab/static/js/main.20f998d8.chunk.js",
+    "main.js.map": "/creative-lab/static/js/main.20f998d8.chunk.js.map",
     "runtime-main.js": "/creative-lab/static/js/runtime-main.32eb311e.js",
     "runtime-main.js.map": "/creative-lab/static/js/runtime-main.32eb311e.js.map",
-    "static/js/2.55b49209.chunk.js": "/creative-lab/static/js/2.55b49209.chunk.js",
-    "static/js/2.55b49209.chunk.js.map": "/creative-lab/static/js/2.55b49209.chunk.js.map",
+    "static/js/2.3398f708.chunk.js": "/creative-lab/static/js/2.3398f708.chunk.js",
+    "static/js/2.3398f708.chunk.js.map": "/creative-lab/static/js/2.3398f708.chunk.js.map",
     "static/js/3.b8de5743.chunk.js": "/creative-lab/static/js/3.b8de5743.chunk.js",
     "static/js/3.b8de5743.chunk.js.map": "/creative-lab/static/js/3.b8de5743.chunk.js.map",
     "index.html": "/creative-lab/index.html",
-    "static/css/main.561b8c23.chunk.css.map": "/creative-lab/static/css/main.561b8c23.chunk.css.map",
-    "static/js/2.55b49209.chunk.js.LICENSE.txt": "/creative-lab/static/js/2.55b49209.chunk.js.LICENSE.txt",
-    "static/media/logo-black.8528e498.svg": "/creative-lab/static/media/logo-black.8528e498.svg"
+    "static/css/main.7a4794f9.chunk.css.map": "/creative-lab/static/css/main.7a4794f9.chunk.css.map",
+    "static/js/2.3398f708.chunk.js.LICENSE.txt": "/creative-lab/static/js/2.3398f708.chunk.js.LICENSE.txt",
+    "static/media/camera.a596c3d9.png": "/creative-lab/static/media/camera.a596c3d9.png",
+    "static/media/centrotavola.bc6aef5a.png": "/creative-lab/static/media/centrotavola.bc6aef5a.png",
+    "static/media/giftbox.3fc154be.png": "/creative-lab/static/media/giftbox.3fc154be.png",
+    "static/media/logo-black.8528e498.svg": "/creative-lab/static/media/logo-black.8528e498.svg",
+    "static/media/sneakers.529b7bc3.png": "/creative-lab/static/media/sneakers.529b7bc3.png"
   },
   "entrypoints": [
     "static/js/runtime-main.32eb311e.js",
-    "static/js/2.55b49209.chunk.js",
-    "static/css/main.561b8c23.chunk.css",
-    "static/js/main.b9e28011.chunk.js"
+    "static/js/2.3398f708.chunk.js",
+    "static/css/main.7a4794f9.chunk.css",
+    "static/js/main.20f998d8.chunk.js"
   ]
 }
