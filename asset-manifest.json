@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/creative-lab/static/css/main.c1144dac.chunk.css",
-    "main.js": "/creative-lab/static/js/main.a983e9a7.chunk.js",
-    "main.js.map": "/creative-lab/static/js/main.a983e9a7.chunk.js.map",
+    "main.js": "/creative-lab/static/js/main.f5d4eaea.chunk.js",
+    "main.js.map": "/creative-lab/static/js/main.f5d4eaea.chunk.js.map",
     "runtime-main.js": "/creative-lab/static/js/runtime-main.42466c6f.js",
     "runtime-main.js.map": "/creative-lab/static/js/runtime-main.42466c6f.js.map",
-    "static/js/2.efd95356.chunk.js": "/creative-lab/static/js/2.efd95356.chunk.js",
-    "static/js/2.efd95356.chunk.js.map": "/creative-lab/static/js/2.efd95356.chunk.js.map",
+    "static/js/2.11e9bd08.chunk.js": "/creative-lab/static/js/2.11e9bd08.chunk.js",
+    "static/js/2.11e9bd08.chunk.js.map": "/creative-lab/static/js/2.11e9bd08.chunk.js.map",
     "static/js/3.f7fa2195.chunk.js": "/creative-lab/static/js/3.f7fa2195.chunk.js",
     "static/js/3.f7fa2195.chunk.js.map": "/creative-lab/static/js/3.f7fa2195.chunk.js.map",
     "index.html": "/creative-lab/index.html",
     "static/css/main.c1144dac.chunk.css.map": "/creative-lab/static/css/main.c1144dac.chunk.css.map",
-    "static/js/2.efd95356.chunk.js.LICENSE.txt": "/creative-lab/static/js/2.efd95356.chunk.js.LICENSE.txt",
+    "static/js/2.11e9bd08.chunk.js.LICENSE.txt": "/creative-lab/static/js/2.11e9bd08.chunk.js.LICENSE.txt",
     "static/media/camera.a596c3d9.png": "/creative-lab/static/media/camera.a596c3d9.png",
     "static/media/centrotavola.bc6aef5a.png": "/creative-lab/static/media/centrotavola.bc6aef5a.png",
     "static/media/giftbox.3fc154be.png": "/creative-lab/static/media/giftbox.3fc154be.png",
@@ -19,8 +19,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.42466c6f.js",
-    "static/js/2.efd95356.chunk.js",
+    "static/js/2.11e9bd08.chunk.js",
     "static/css/main.c1144dac.chunk.css",
-    "static/js/main.a983e9a7.chunk.js"
+    "static/js/main.f5d4eaea.chunk.js"
   ]
 }
