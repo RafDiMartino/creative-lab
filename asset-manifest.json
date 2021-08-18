@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/creative-lab/static/css/main.1095441d.chunk.css",
-    "main.js": "/creative-lab/static/js/main.50f5f6fc.chunk.js",
-    "main.js.map": "/creative-lab/static/js/main.50f5f6fc.chunk.js.map",
+    "main.js": "/creative-lab/static/js/main.7061b7f4.chunk.js",
+    "main.js.map": "/creative-lab/static/js/main.7061b7f4.chunk.js.map",
     "runtime-main.js": "/creative-lab/static/js/runtime-main.42466c6f.js",
     "runtime-main.js.map": "/creative-lab/static/js/runtime-main.42466c6f.js.map",
     "static/js/2.efd95356.chunk.js": "/creative-lab/static/js/2.efd95356.chunk.js",
@@ -15,13 +15,12 @@
     "static/media/camera.a596c3d9.png": "/creative-lab/static/media/camera.a596c3d9.png",
     "static/media/centrotavola.bc6aef5a.png": "/creative-lab/static/media/centrotavola.bc6aef5a.png",
     "static/media/giftbox.3fc154be.png": "/creative-lab/static/media/giftbox.3fc154be.png",
-    "static/media/logo-black.8528e498.svg": "/creative-lab/static/media/logo-black.8528e498.svg",
     "static/media/sneakers.529b7bc3.png": "/creative-lab/static/media/sneakers.529b7bc3.png"
   },
   "entrypoints": [
     "static/js/runtime-main.42466c6f.js",
     "static/js/2.efd95356.chunk.js",
     "static/css/main.1095441d.chunk.css",
-    "static/js/main.50f5f6fc.chunk.js"
+    "static/js/main.7061b7f4.chunk.js"
   ]
 }
