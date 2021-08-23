@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/creative-lab/static/css/main.e18bf990.chunk.css",
-    "main.js": "/creative-lab/static/js/main.9b782882.chunk.js",
-    "main.js.map": "/creative-lab/static/js/main.9b782882.chunk.js.map",
+    "main.css": "/creative-lab/static/css/main.698b3407.chunk.css",
+    "main.js": "/creative-lab/static/js/main.0c00065f.chunk.js",
+    "main.js.map": "/creative-lab/static/js/main.0c00065f.chunk.js.map",
     "runtime-main.js": "/creative-lab/static/js/runtime-main.ef8c90ff.js",
     "runtime-main.js.map": "/creative-lab/static/js/runtime-main.ef8c90ff.js.map",
     "static/css/2.885c3689.chunk.css": "/creative-lab/static/css/2.885c3689.chunk.css",
-    "static/js/2.0f0cadf4.chunk.js": "/creative-lab/static/js/2.0f0cadf4.chunk.js",
-    "static/js/2.0f0cadf4.chunk.js.map": "/creative-lab/static/js/2.0f0cadf4.chunk.js.map",
+    "static/js/2.72dfdb1a.chunk.js": "/creative-lab/static/js/2.72dfdb1a.chunk.js",
+    "static/js/2.72dfdb1a.chunk.js.map": "/creative-lab/static/js/2.72dfdb1a.chunk.js.map",
     "static/js/3.e60baf68.chunk.js": "/creative-lab/static/js/3.e60baf68.chunk.js",
     "static/js/3.e60baf68.chunk.js.map": "/creative-lab/static/js/3.e60baf68.chunk.js.map",
     "index.html": "/creative-lab/index.html",
     "static/css/2.885c3689.chunk.css.map": "/creative-lab/static/css/2.885c3689.chunk.css.map",
-    "static/css/main.e18bf990.chunk.css.map": "/creative-lab/static/css/main.e18bf990.chunk.css.map",
-    "static/js/2.0f0cadf4.chunk.js.LICENSE.txt": "/creative-lab/static/js/2.0f0cadf4.chunk.js.LICENSE.txt",
+    "static/css/main.698b3407.chunk.css.map": "/creative-lab/static/css/main.698b3407.chunk.css.map",
+    "static/js/2.72dfdb1a.chunk.js.LICENSE.txt": "/creative-lab/static/js/2.72dfdb1a.chunk.js.LICENSE.txt",
     "static/media/background2.a5182400.jpg": "/creative-lab/static/media/background2.a5182400.jpg",
     "static/media/camera.a596c3d9.png": "/creative-lab/static/media/camera.a596c3d9.png",
     "static/media/centrotavola.bc6aef5a.png": "/creative-lab/static/media/centrotavola.bc6aef5a.png",
@@ -29,8 +29,8 @@
   "entrypoints": [
     "static/js/runtime-main.ef8c90ff.js",
     "static/css/2.885c3689.chunk.css",
-    "static/js/2.0f0cadf4.chunk.js",
-    "static/css/main.e18bf990.chunk.css",
-    "static/js/main.9b782882.chunk.js"
+    "static/js/2.72dfdb1a.chunk.js",
+    "static/css/main.698b3407.chunk.css",
+    "static/js/main.0c00065f.chunk.js"
   ]
 }
