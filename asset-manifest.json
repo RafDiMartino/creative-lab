@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/creative-lab/static/css/main.c8004337.chunk.css",
-    "main.js": "/creative-lab/static/js/main.b5ede83b.chunk.js",
-    "main.js.map": "/creative-lab/static/js/main.b5ede83b.chunk.js.map",
+    "main.js": "/creative-lab/static/js/main.123ad7bc.chunk.js",
+    "main.js.map": "/creative-lab/static/js/main.123ad7bc.chunk.js.map",
     "runtime-main.js": "/creative-lab/static/js/runtime-main.45c4253f.js",
     "runtime-main.js.map": "/creative-lab/static/js/runtime-main.45c4253f.js.map",
     "static/css/2.885c3689.chunk.css": "/creative-lab/static/css/2.885c3689.chunk.css",
@@ -36,6 +36,6 @@
     "static/css/2.885c3689.chunk.css",
     "static/js/2.7e950b06.chunk.js",
     "static/css/main.c8004337.chunk.css",
-    "static/js/main.b5ede83b.chunk.js"
+    "static/js/main.123ad7bc.chunk.js"
   ]
 }
