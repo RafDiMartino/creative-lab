@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/creative-lab/static/css/main.0f0f2557.chunk.css",
-    "main.js": "/creative-lab/static/js/main.132b48d2.chunk.js",
-    "main.js.map": "/creative-lab/static/js/main.132b48d2.chunk.js.map",
-    "runtime-main.js": "/creative-lab/static/js/runtime-main.7d2283bc.js",
-    "runtime-main.js.map": "/creative-lab/static/js/runtime-main.7d2283bc.js.map",
+    "main.css": "/creative-lab/static/css/main.45f362fd.chunk.css",
+    "main.js": "/creative-lab/static/js/main.deee6c12.chunk.js",
+    "main.js.map": "/creative-lab/static/js/main.deee6c12.chunk.js.map",
+    "runtime-main.js": "/creative-lab/static/js/runtime-main.d8774601.js",
+    "runtime-main.js.map": "/creative-lab/static/js/runtime-main.d8774601.js.map",
     "static/css/2.885c3689.chunk.css": "/creative-lab/static/css/2.885c3689.chunk.css",
-    "static/js/2.1dd4a496.chunk.js": "/creative-lab/static/js/2.1dd4a496.chunk.js",
-    "static/js/2.1dd4a496.chunk.js.map": "/creative-lab/static/js/2.1dd4a496.chunk.js.map",
-    "static/js/3.878a976c.chunk.js": "/creative-lab/static/js/3.878a976c.chunk.js",
-    "static/js/3.878a976c.chunk.js.map": "/creative-lab/static/js/3.878a976c.chunk.js.map",
+    "static/js/2.3553bea3.chunk.js": "/creative-lab/static/js/2.3553bea3.chunk.js",
+    "static/js/2.3553bea3.chunk.js.map": "/creative-lab/static/js/2.3553bea3.chunk.js.map",
+    "static/js/3.05589ef3.chunk.js": "/creative-lab/static/js/3.05589ef3.chunk.js",
+    "static/js/3.05589ef3.chunk.js.map": "/creative-lab/static/js/3.05589ef3.chunk.js.map",
     "index.html": "/creative-lab/index.html",
     "static/css/2.885c3689.chunk.css.map": "/creative-lab/static/css/2.885c3689.chunk.css.map",
-    "static/css/main.0f0f2557.chunk.css.map": "/creative-lab/static/css/main.0f0f2557.chunk.css.map",
-    "static/js/2.1dd4a496.chunk.js.LICENSE.txt": "/creative-lab/static/js/2.1dd4a496.chunk.js.LICENSE.txt",
+    "static/css/main.45f362fd.chunk.css.map": "/creative-lab/static/css/main.45f362fd.chunk.css.map",
+    "static/js/2.3553bea3.chunk.js.LICENSE.txt": "/creative-lab/static/js/2.3553bea3.chunk.js.LICENSE.txt",
     "static/media/background2.a5182400.jpg": "/creative-lab/static/media/background2.a5182400.jpg",
     "static/media/camera.a596c3d9.png": "/creative-lab/static/media/camera.a596c3d9.png",
     "static/media/centrotavola.bc6aef5a.png": "/creative-lab/static/media/centrotavola.bc6aef5a.png",
@@ -32,10 +32,10 @@
     "static/media/photo-book.css": "/creative-lab/static/media/watercolor-yellow.da06f034.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7d2283bc.js",
+    "static/js/runtime-main.d8774601.js",
     "static/css/2.885c3689.chunk.css",
-    "static/js/2.1dd4a496.chunk.js",
-    "static/css/main.0f0f2557.chunk.css",
-    "static/js/main.132b48d2.chunk.js"
+    "static/js/2.3553bea3.chunk.js",
+    "static/css/main.45f362fd.chunk.css",
+    "static/js/main.deee6c12.chunk.js"
   ]
 }
