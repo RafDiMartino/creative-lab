@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/creative-lab/static/css/main.b5ed24fe.chunk.css",
+    "main.css": "/creative-lab/static/css/main.0f0f2557.chunk.css",
     "main.js": "/creative-lab/static/js/main.132b48d2.chunk.js",
     "main.js.map": "/creative-lab/static/js/main.132b48d2.chunk.js.map",
     "runtime-main.js": "/creative-lab/static/js/runtime-main.7d2283bc.js",
@@ -12,7 +12,7 @@
     "static/js/3.878a976c.chunk.js.map": "/creative-lab/static/js/3.878a976c.chunk.js.map",
     "index.html": "/creative-lab/index.html",
     "static/css/2.885c3689.chunk.css.map": "/creative-lab/static/css/2.885c3689.chunk.css.map",
-    "static/css/main.b5ed24fe.chunk.css.map": "/creative-lab/static/css/main.b5ed24fe.chunk.css.map",
+    "static/css/main.0f0f2557.chunk.css.map": "/creative-lab/static/css/main.0f0f2557.chunk.css.map",
     "static/js/2.1dd4a496.chunk.js.LICENSE.txt": "/creative-lab/static/js/2.1dd4a496.chunk.js.LICENSE.txt",
     "static/media/background2.a5182400.jpg": "/creative-lab/static/media/background2.a5182400.jpg",
     "static/media/camera.a596c3d9.png": "/creative-lab/static/media/camera.a596c3d9.png",
@@ -35,7 +35,7 @@
     "static/js/runtime-main.7d2283bc.js",
     "static/css/2.885c3689.chunk.css",
     "static/js/2.1dd4a496.chunk.js",
-    "static/css/main.b5ed24fe.chunk.css",
+    "static/css/main.0f0f2557.chunk.css",
     "static/js/main.132b48d2.chunk.js"
   ]
 }
