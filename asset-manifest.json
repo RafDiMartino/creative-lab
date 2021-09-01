@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/creative-lab/static/css/main.546f0e4e.chunk.css",
-    "main.js": "/creative-lab/static/js/main.7047693c.chunk.js",
-    "main.js.map": "/creative-lab/static/js/main.7047693c.chunk.js.map",
+    "main.css": "/creative-lab/static/css/main.12a6d7a7.chunk.css",
+    "main.js": "/creative-lab/static/js/main.8995991a.chunk.js",
+    "main.js.map": "/creative-lab/static/js/main.8995991a.chunk.js.map",
     "runtime-main.js": "/creative-lab/static/js/runtime-main.0536a722.js",
     "runtime-main.js.map": "/creative-lab/static/js/runtime-main.0536a722.js.map",
     "static/css/2.885c3689.chunk.css": "/creative-lab/static/css/2.885c3689.chunk.css",
-    "static/js/2.b907f26c.chunk.js": "/creative-lab/static/js/2.b907f26c.chunk.js",
-    "static/js/2.b907f26c.chunk.js.map": "/creative-lab/static/js/2.b907f26c.chunk.js.map",
+    "static/js/2.41db6205.chunk.js": "/creative-lab/static/js/2.41db6205.chunk.js",
+    "static/js/2.41db6205.chunk.js.map": "/creative-lab/static/js/2.41db6205.chunk.js.map",
     "static/js/3.a7e11cb2.chunk.js": "/creative-lab/static/js/3.a7e11cb2.chunk.js",
     "static/js/3.a7e11cb2.chunk.js.map": "/creative-lab/static/js/3.a7e11cb2.chunk.js.map",
     "index.html": "/creative-lab/index.html",
     "static/css/2.885c3689.chunk.css.map": "/creative-lab/static/css/2.885c3689.chunk.css.map",
-    "static/css/main.546f0e4e.chunk.css.map": "/creative-lab/static/css/main.546f0e4e.chunk.css.map",
-    "static/js/2.b907f26c.chunk.js.LICENSE.txt": "/creative-lab/static/js/2.b907f26c.chunk.js.LICENSE.txt",
+    "static/css/main.12a6d7a7.chunk.css.map": "/creative-lab/static/css/main.12a6d7a7.chunk.css.map",
+    "static/js/2.41db6205.chunk.js.LICENSE.txt": "/creative-lab/static/js/2.41db6205.chunk.js.LICENSE.txt",
     "static/media/background2.a5182400.jpg": "/creative-lab/static/media/background2.a5182400.jpg",
     "static/media/blue-section.b81692fa.jpg": "/creative-lab/static/media/blue-section.b81692fa.jpg",
     "static/media/camera.a596c3d9.png": "/creative-lab/static/media/camera.a596c3d9.png",
@@ -29,6 +29,7 @@
     "static/media/spazio-idee.e48428f7.jpg": "/creative-lab/static/media/spazio-idee.e48428f7.jpg",
     "static/media/speciale-natale.723e6e40.jpg": "/creative-lab/static/media/speciale-natale.723e6e40.jpg",
     "static/media/violet-section.69ac2c24.jpg": "/creative-lab/static/media/violet-section.69ac2c24.jpg",
+    "static/media/about.css": "/creative-lab/static/media/watercolor-black.eb25a614.jpg",
     "static/media/shoes.css": "/creative-lab/static/media/watercolor-blue.6bb00cd4.jpg",
     "static/media/ideas.css": "/creative-lab/static/media/watercolor-green.e91bf00a.jpg",
     "static/media/christmas-special.css": "/creative-lab/static/media/watercolor-red.41391815.jpg",
@@ -39,8 +40,8 @@
   "entrypoints": [
     "static/js/runtime-main.0536a722.js",
     "static/css/2.885c3689.chunk.css",
-    "static/js/2.b907f26c.chunk.js",
-    "static/css/main.546f0e4e.chunk.css",
-    "static/js/main.7047693c.chunk.js"
+    "static/js/2.41db6205.chunk.js",
+    "static/css/main.12a6d7a7.chunk.css",
+    "static/js/main.8995991a.chunk.js"
   ]
 }
