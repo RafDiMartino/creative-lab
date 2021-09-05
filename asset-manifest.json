@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/creative-lab/static/css/main.a9d6fb12.chunk.css",
-    "main.js": "/creative-lab/static/js/main.36695699.chunk.js",
-    "main.js.map": "/creative-lab/static/js/main.36695699.chunk.js.map",
+    "main.css": "/creative-lab/static/css/main.bf339c2d.chunk.css",
+    "main.js": "/creative-lab/static/js/main.3ff87c19.chunk.js",
+    "main.js.map": "/creative-lab/static/js/main.3ff87c19.chunk.js.map",
     "runtime-main.js": "/creative-lab/static/js/runtime-main.0536a722.js",
     "runtime-main.js.map": "/creative-lab/static/js/runtime-main.0536a722.js.map",
     "static/css/2.885c3689.chunk.css": "/creative-lab/static/css/2.885c3689.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.a7e11cb2.chunk.js.map": "/creative-lab/static/js/3.a7e11cb2.chunk.js.map",
     "index.html": "/creative-lab/index.html",
     "static/css/2.885c3689.chunk.css.map": "/creative-lab/static/css/2.885c3689.chunk.css.map",
-    "static/css/main.a9d6fb12.chunk.css.map": "/creative-lab/static/css/main.a9d6fb12.chunk.css.map",
+    "static/css/main.bf339c2d.chunk.css.map": "/creative-lab/static/css/main.bf339c2d.chunk.css.map",
     "static/js/2.f338d768.chunk.js.LICENSE.txt": "/creative-lab/static/js/2.f338d768.chunk.js.LICENSE.txt",
     "static/media/background2.b72aac43.jpg": "/creative-lab/static/media/background2.b72aac43.jpg",
     "static/media/blue-section.e27fb2f2.jpg": "/creative-lab/static/media/blue-section.e27fb2f2.jpg",
@@ -24,7 +24,7 @@
     "static/media/photo-book.dbdd1df8.jpg": "/creative-lab/static/media/photo-book.dbdd1df8.jpg",
     "static/media/red-section.7882874a.jpg": "/creative-lab/static/media/red-section.7882874a.jpg",
     "static/media/sezione-candele.68f9b52c.jpg": "/creative-lab/static/media/sezione-candele.68f9b52c.jpg",
-    "static/media/sezione-scarpe.01a89d18.jpg": "/creative-lab/static/media/sezione-scarpe.01a89d18.jpg",
+    "static/media/sezione-scarpe.5cdd849d.jpg": "/creative-lab/static/media/sezione-scarpe.5cdd849d.jpg",
     "static/media/sneakers.529b7bc3.png": "/creative-lab/static/media/sneakers.529b7bc3.png",
     "static/media/spazio-idee.83a55214.jpg": "/creative-lab/static/media/spazio-idee.83a55214.jpg",
     "static/media/speciale-natale.9778ac80.jpg": "/creative-lab/static/media/speciale-natale.9778ac80.jpg",
@@ -41,7 +41,7 @@
     "static/js/runtime-main.0536a722.js",
     "static/css/2.885c3689.chunk.css",
     "static/js/2.f338d768.chunk.js",
-    "static/css/main.a9d6fb12.chunk.css",
-    "static/js/main.36695699.chunk.js"
+    "static/css/main.bf339c2d.chunk.css",
+    "static/js/main.3ff87c19.chunk.js"
   ]
 }
