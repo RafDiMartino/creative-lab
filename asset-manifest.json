@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/creative-lab/static/css/main.10b1dcb8.chunk.css",
-    "main.js": "/creative-lab/static/js/main.7d4e6f3b.chunk.js",
-    "main.js.map": "/creative-lab/static/js/main.7d4e6f3b.chunk.js.map",
+    "main.css": "/creative-lab/static/css/main.9e7c4ad0.chunk.css",
+    "main.js": "/creative-lab/static/js/main.2d3d34d7.chunk.js",
+    "main.js.map": "/creative-lab/static/js/main.2d3d34d7.chunk.js.map",
     "runtime-main.js": "/creative-lab/static/js/runtime-main.91c5b497.js",
     "runtime-main.js.map": "/creative-lab/static/js/runtime-main.91c5b497.js.map",
     "static/css/2.885c3689.chunk.css": "/creative-lab/static/css/2.885c3689.chunk.css",
-    "static/js/2.7c26eb85.chunk.js": "/creative-lab/static/js/2.7c26eb85.chunk.js",
-    "static/js/2.7c26eb85.chunk.js.map": "/creative-lab/static/js/2.7c26eb85.chunk.js.map",
+    "static/js/2.d9bbd200.chunk.js": "/creative-lab/static/js/2.d9bbd200.chunk.js",
+    "static/js/2.d9bbd200.chunk.js.map": "/creative-lab/static/js/2.d9bbd200.chunk.js.map",
     "static/js/3.a4be96bb.chunk.js": "/creative-lab/static/js/3.a4be96bb.chunk.js",
     "static/js/3.a4be96bb.chunk.js.map": "/creative-lab/static/js/3.a4be96bb.chunk.js.map",
     "index.html": "/creative-lab/index.html",
     "static/css/2.885c3689.chunk.css.map": "/creative-lab/static/css/2.885c3689.chunk.css.map",
-    "static/css/main.10b1dcb8.chunk.css.map": "/creative-lab/static/css/main.10b1dcb8.chunk.css.map",
-    "static/js/2.7c26eb85.chunk.js.LICENSE.txt": "/creative-lab/static/js/2.7c26eb85.chunk.js.LICENSE.txt",
+    "static/css/main.9e7c4ad0.chunk.css.map": "/creative-lab/static/css/main.9e7c4ad0.chunk.css.map",
+    "static/js/2.d9bbd200.chunk.js.LICENSE.txt": "/creative-lab/static/js/2.d9bbd200.chunk.js.LICENSE.txt",
     "static/media/background2.b72aac43.jpg": "/creative-lab/static/media/background2.b72aac43.jpg",
     "static/media/blue-section.c955de47.jpg": "/creative-lab/static/media/blue-section.c955de47.jpg",
     "static/media/camera.a596c3d9.png": "/creative-lab/static/media/camera.a596c3d9.png",
@@ -40,8 +40,8 @@
   "entrypoints": [
     "static/js/runtime-main.91c5b497.js",
     "static/css/2.885c3689.chunk.css",
-    "static/js/2.7c26eb85.chunk.js",
-    "static/css/main.10b1dcb8.chunk.css",
-    "static/js/main.7d4e6f3b.chunk.js"
+    "static/js/2.d9bbd200.chunk.js",
+    "static/css/main.9e7c4ad0.chunk.css",
+    "static/js/main.2d3d34d7.chunk.js"
   ]
 }
