@@ -1,0 +1,27 @@
+
+
+.about-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url(../assets/watercolor-black.jpg);
+    -webkit-background-size: cover;
+    background-size: cover;
+    color: whitesmoke;
+}
+
+.about-container p {
+    max-width: 51rem;
+}
+
+.about-container p:last-child {
+    margin: 1rem 0 .5rem;
+}
+
+.map iframe {
+    box-shadow: none;
+    margin-top: .5rem;
+    margin-bottom: .5rem;
+    
+  }

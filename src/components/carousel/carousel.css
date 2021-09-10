@@ -1,0 +1,64 @@
+
+.carousel-wrapper {
+    height: 15rem;
+    margin-bottom: 0.5rem;
+}
+
+.swiper-container {
+    width: 100%;
+    height: 100%;
+}
+  
+.swiper-slide {
+    text-align: center;
+    font-size: 15px;
+    font-weight: 500;
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.swiper-slide p {
+    padding: 6rem 4rem;
+}
+
+div .swiper-button-prev { 
+    color: rgb(255,213,25); 
+}
+
+div .swiper-button-next {
+    color: rgb(255,213,25);
+}
+
+.swiper-pagination .swiper-pagination-bullet-active {
+    background: rgb(255,213,25);
+    
+}
+
+.background-img {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-position: center;
+  }
+
+@media only screen and (max-width: 600px){
+    .background-img {
+        -webkit-background-size: cover;
+        background-size: cover;
+        background-position: center; 
+    }
+}
+
+@media only screen and (max-width: 900px) {
+    div .swiper-button-prev { 
+        display: none; 
+    }
+
+    div .swiper-button-next {
+        display: none;
+    }
+
+
+}

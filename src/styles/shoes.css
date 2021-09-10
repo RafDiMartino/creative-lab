@@ -1,0 +1,10 @@
+.shoes-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url(../assets/watercolor-blue.jpg);
+    -webkit-background-size: cover;
+    background-size: cover;
+    color: whitesmoke;
+}

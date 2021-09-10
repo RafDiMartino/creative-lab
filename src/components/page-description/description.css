@@ -1,0 +1,25 @@
+
+.description-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.description{
+    max-width: 50rem;
+    text-align: left;
+    margin: 0 2rem 0rem ;
+}
+
+.descriptioff {
+    display: none;
+}
+
+.btn-expand {
+    width: 4rem;
+    border: none;
+    margin: 1rem 0 1rem;
+    background-color:unset;
+    color: whitesmoke;
+}
