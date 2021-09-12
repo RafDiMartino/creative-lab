@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import "./navbar.css"
+import "./navbar.scss"
 import Logo from "../../assets/100h.png"
 import Shoe from "../../assets/sneakers.png"
 import Candle from "../../assets/candle.png"
@@ -23,15 +23,15 @@ function NavBar2() {
 
     return (
         <nav>
-            <div className="left-side" id={openMenu ? "open" : "close"}>
+            <div className="wrapper" id={openMenu ? "open" : "close"}>
                 <Link to="/"><img className="logo-nav" src={Logo} alt="logo" /></Link>
                 <div className="nav-links" >
                     <Link to="/"><img className="nav-icon home" src={Home} alt="shoe" /></Link>
                     <Link to="/scarpe"><img className="nav-icon shoe" src={Shoe} alt="shoe" /></Link>
                     <Link to="/candele"><img className="nav-icon" src={Candle} alt="candle" /></Link>
-                    <Link to="/speciale-natale"><img className="nav-icon" src={CentroTavola} alt="candle" /></Link>
-                    <Link to="/servizio-fotografico"><img className="nav-icon" src={Camera} alt="candle" /></Link>
-                    <Link to="/spazio-idea"><img className="nav-icon giftbox" src={GiftBox} alt="candle" /></Link>
+                    <Link to="/speciale-natale"><img className="nav-icon" src={CentroTavola} alt="natale" /></Link>
+                    <Link to="/servizio-fotografico"><img className="nav-icon" src={Camera} alt="photobook" /></Link>
+                    <Link to="/spazio-idea"><img className="nav-icon giftbox" src={GiftBox} alt="spazio-idea" /></Link>
                 </div>
             </div>
             <button className="nav-btn" onClick={toggleMenu} aria-label="menu">
