@@ -1,5 +1,4 @@
 import { useEffect } from "react"
-import './App.css';
 import {HashRouter as Router, Route, Switch, withRouter, useLocation} from "react-router-dom"
 import Home from './pages/Home';
 import Shoes from './pages/Shoes';
@@ -10,6 +9,7 @@ import Ideas from "./pages/Ideas"
 import Footer from './components/footer/Footer';
 import NavBar from './components/nav-bar/NavBar';
 import About from './pages/About';
+
 
 function _ScrollToTop(props) {
   const { pathname } = useLocation();

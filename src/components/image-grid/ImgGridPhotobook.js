@@ -1,9 +1,8 @@
-import "./image-grid.css"
+import "./image-grid.scss"
 import React, {useState} from 'react'
 import useFirestore from "../custom-hook/useFirestore"
 import AppsIcon from '@material-ui/icons/Apps';
 import ListIcon from '@material-ui/icons/List';
-
 
 const ImgGridPhotobook = ({ setSelectedImg })=> {
     const [gridToList, setGridToList] = useState(true)
@@ -11,7 +10,6 @@ const ImgGridPhotobook = ({ setSelectedImg })=> {
     const handleClick = () => {
         setGridToList(!gridToList)
     }
-
 
     const { docs } = useFirestore("servizio-fotografico")
     

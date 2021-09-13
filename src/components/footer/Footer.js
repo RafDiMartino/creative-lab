@@ -1,5 +1,5 @@
 import React from 'react'
-import "./footer.css"
+import "./footer.scss"
 import FacebookIcon from '@material-ui/icons/Facebook';
 import InstagramIcon from '@material-ui/icons/Instagram';
 import WhatsAppIcon from '@material-ui/icons/WhatsApp';
@@ -7,10 +7,8 @@ import MailOutlineIcon from '@material-ui/icons/MailOutline';
 import LogoAbout from "../../assets/logoAbout.png"
 import { Link } from "react-router-dom"
 
-
 function Footer() {
     return (
-        <>
         <div className="footer-container">
             <div className="icons-wrapper">
                 <div className="follow-us">
@@ -36,8 +34,6 @@ function Footer() {
             </div>
             <p className="madeBy">website by &#9679; Raf Di Martino</p>
         </div>
-
-        </>
     )
 }
 

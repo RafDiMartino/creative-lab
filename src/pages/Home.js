@@ -1,6 +1,6 @@
 import React from 'react'
 import Carousel from '../components/carousel/Carousel'
-import "../styles/home.css"
+import "../styles/pages.scss"
 import Section from "../components/home-page-section/Section"
 import Shoes from "../assets/sezione-scarpe.jpg"
 import Candles from "../assets/sezione-candele.jpg"
@@ -13,7 +13,6 @@ import VioletStripe from "../assets/violet-section.jpg"
 import RedStripe from "../assets/red-section.jpg"
 import YellowStripe from "../assets/yellow-section.jpg"
 import GreenStripe from "../assets/green-section.jpg"
-
 
 function Home() {
     return (

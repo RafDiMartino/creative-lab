@@ -1,7 +1,7 @@
 import WhatsApp from '../components/whatsapp-button/WhatsApp'
 import React, {useState} from 'react'
 import PageHeader from '../components/page-header/PageHeader'
-import "../styles/ideas.css"
+import "../styles/pages.scss"
 import ImgGridIdea from '../components/image-grid/ImgGridIdea'
 import Modal from '../components/modal/Modal'
 

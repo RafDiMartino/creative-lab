@@ -1,4 +1,4 @@
-import "./image-grid.css"
+import "./image-grid.scss"
 import React, {useState} from 'react'
 import useFirestore from "../custom-hook/useFirestore"
 import AppsIcon from '@material-ui/icons/Apps';
@@ -11,7 +11,6 @@ const ImgGridCandele = ({ setSelectedImg })=> {
     const handleClick = () => {
         setGridToList(!gridToList)
     }
-
 
     const { docs } = useFirestore("candele")
     

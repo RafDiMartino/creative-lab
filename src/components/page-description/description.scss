@@ -1,0 +1,26 @@
+@import "../../styles/variables-mixins";
+
+.description-wrapper {
+    @include flexCenter();
+    flex-direction: column;
+
+    .description{
+        max-width: 50rem;
+        text-align: left;
+        margin: 0 2rem 0rem ;
+    }
+    
+    .descriptioff {
+        display: none;
+    }
+    
+    .btn-expand {
+        width: 4rem;
+        border: none;
+        margin: 1rem 0 1rem;
+        background-color:unset;
+        color: whitesmoke;
+    }
+}
+
+

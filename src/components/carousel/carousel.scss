@@ -1,3 +1,4 @@
+@import "../../styles/variables-mixins";
 
 .carousel-wrapper {
     height: 15rem;
@@ -25,15 +26,15 @@
 }
 
 div .swiper-button-prev { 
-    color: rgb(255,213,25); 
+    color: $yellow; 
 }
 
 div .swiper-button-next {
-    color: rgb(255,213,25);
+    color: $yellow;
 }
 
 .swiper-pagination .swiper-pagination-bullet-active {
-    background: rgb(255,213,25);
+    background: $yellow;
     
 }
 
@@ -60,6 +61,4 @@ div .swiper-button-next {
     div .swiper-button-next {
         display: none;
     }
-
-
 }

@@ -1,13 +1,13 @@
+@import "../../styles/variables-mixins";
+
 .footer-container {
-    display: flex;
+    @include flexCenter();
     flex-direction: column;
-    justify-content: center;
-    align-items: center;
     font-size: 1.1rem;
     font-weight: 500;
     height: 11rem;
     width: 100%;
-    background-color: rgb(255, 213, 25);
+    background-color: $yellow;
     border-top: 1px solid black;
 }
 
@@ -42,6 +42,6 @@
 
 @media only screen and (min-width: 1000px) {
     .icons-wrapper {
-        width: 50%;
+        width: 60%;
     }
 }

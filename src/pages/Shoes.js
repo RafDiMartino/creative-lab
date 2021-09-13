@@ -2,10 +2,9 @@ import React, {useState} from 'react'
 import PageHeader from '../components/page-header/PageHeader'
 import Description from '../components/page-description/Description'
 import WhatsApp from "../components/whatsapp-button/WhatsApp"
-import "../styles/shoes.css"
+import "../styles/pages.scss"
 import ImgGridShoes from '../components/image-grid/ImgGridShoes'
 import Modal from '../components/modal/Modal'
-
 
 function Shoes() {
 

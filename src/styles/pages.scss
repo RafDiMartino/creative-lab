@@ -1,0 +1,66 @@
+@import "./variables-mixins";
+
+@mixin containers($background-image) {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: $background-image;
+    -webkit-background-size: cover;
+    background-size: cover;
+    color: whitesmoke;
+}
+
+.shoes-container {
+    @include containers(url(../assets/watercolor-blue.jpg));
+}
+
+.candle-container {
+    @include containers(url(../assets/watercolor-violet.jpg));
+}
+
+.christmas-container {
+    @include containers(url(../assets/watercolor-red.jpg));
+}
+
+.photo-book-container {
+    @include containers(url(../assets/watercolor-yellow.jpg));
+}
+
+.ideas-container {
+    @include containers(url(../assets/watercolor-green.jpg));
+
+}
+
+.about-container {
+
+    @include containers(url(../assets/watercolor-black.jpg));
+    
+    p {
+        max-width: 51rem;
+    }
+    
+    p:last-child {
+        margin: 1rem 0 .5rem;
+    }
+}
+
+iframe {
+    width: 100%;
+    box-shadow: $boxShadow;
+}
+
+.section-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: 3rem 0;
+}
+
+.map iframe {
+    box-shadow: none;
+    margin-top: .5rem;
+    margin-bottom: .5rem;
+    
+  }

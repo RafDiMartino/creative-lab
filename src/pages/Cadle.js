@@ -2,10 +2,9 @@ import React, { useState } from 'react'
 import PageHeader from '../components/page-header/PageHeader'
 import Description from '../components/page-description/Description'
 import WhatsApp from "../components/whatsapp-button/WhatsApp"
-import "../styles/candle.css"
+import "../styles/pages.scss"
 import ImgGridCandele from '../components/image-grid/ImgGridCandele'
 import Modal from '../components/modal/Modal'
-
 
 function Candle() {
 

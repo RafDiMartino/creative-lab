@@ -1,17 +1,16 @@
-import "./image-grid.css"
+import "./image-grid.scss"
 import React, {useState} from 'react'
 import useFirestore from "../custom-hook/useFirestore"
 import AppsIcon from '@material-ui/icons/Apps';
 import ListIcon from '@material-ui/icons/List';
 
-
 const ImgGridNatale = ({ setSelectedImg })=> {
+    
     const [gridToList, setGridToList] = useState(true)
 
     const handleClick = () => {
         setGridToList(!gridToList)
     }
-
 
     const { docs } = useFirestore("natale")
     

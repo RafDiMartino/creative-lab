@@ -1,7 +1,6 @@
 import React from 'react'
 import PageHeader from '../components/page-header/PageHeader'
-import "../styles/about.css"
-
+import "../styles/pages.scss"
 
 function About() {
 

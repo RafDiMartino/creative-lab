@@ -2,7 +2,7 @@ import React, {useState} from 'react'
 import PageHeader from '../components/page-header/PageHeader'
 import Description from '../components/page-description/Description'
 import WhatsApp from "../components/whatsapp-button/WhatsApp"
-import "../styles/photo-book.css"
+import "../styles/pages.scss"
 import ImgGridPhotobook from '../components/image-grid/ImgGridPhotobook'
 import Modal from '../components/modal/Modal'
 

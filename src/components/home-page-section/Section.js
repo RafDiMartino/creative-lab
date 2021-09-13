@@ -1,5 +1,5 @@
 import React from 'react'
-import "./section.css"
+import "./section.scss"
 
 function Section({imgUrl, title, img}) {
     return (

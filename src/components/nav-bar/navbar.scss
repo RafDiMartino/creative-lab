@@ -1,8 +1,10 @@
+@import "../../styles/variables-mixins";
+
 nav {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: rgb(255,213,25);
+    background-color: $yellow;
     padding: 0.8rem 0.5rem;
     height: 3.5rem;
     position: sticky;
@@ -65,7 +67,7 @@ nav {
     .nav-btn {
         display: flex;
         border: none;
-        background-color: rgb(255,213,25);
+        background-color: $yellow;
         padding-right: 1.2rem;
         cursor: pointer;   
     }

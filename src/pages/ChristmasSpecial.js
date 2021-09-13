@@ -2,10 +2,9 @@ import React, {useState} from 'react'
 import PageHeader from '../components/page-header/PageHeader'
 import Description from '../components/page-description/Description'
 import WhatsApp from "../components/whatsapp-button/WhatsApp"
-import "../styles/christmas-special.css"
+import "../styles/pages.scss"
 import ImgGridNatale from '../components/image-grid/ImgGridNatale';
 import Modal from '../components/modal/Modal'
-
 
 function ChristmasSpecial() {
 

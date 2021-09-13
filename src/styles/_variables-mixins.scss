@@ -1,0 +1,10 @@
+$yellow: rgb(255,213,25);
+
+$boxShadow: 0 5px 5px -5px black;
+
+@mixin flexCenter(){
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

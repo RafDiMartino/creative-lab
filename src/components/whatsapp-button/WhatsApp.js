@@ -1,6 +1,6 @@
 import React from 'react'
 import WhatsAppIcon from '@material-ui/icons/WhatsApp';
-import "./whatsapp.css"
+import "./whatsapp.scss"
 
 function WhatsApp() {
     return (
