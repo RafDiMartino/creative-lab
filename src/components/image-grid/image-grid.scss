@@ -2,6 +2,7 @@
 
 .image-gid-container {
     @include flexCenter();
+    background-color: $yellow;
     border-bottom: 1px solid black;
     position: sticky;
     top: 5.1rem;
