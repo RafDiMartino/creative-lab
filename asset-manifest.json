@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/creative-lab/static/css/main.25e7fdcb.chunk.css",
-    "main.js": "/creative-lab/static/js/main.38d2e44d.chunk.js",
-    "main.js.map": "/creative-lab/static/js/main.38d2e44d.chunk.js.map",
+    "main.css": "/creative-lab/static/css/main.6e7d6cb2.chunk.css",
+    "main.js": "/creative-lab/static/js/main.d246adb8.chunk.js",
+    "main.js.map": "/creative-lab/static/js/main.d246adb8.chunk.js.map",
     "runtime-main.js": "/creative-lab/static/js/runtime-main.a85954ac.js",
     "runtime-main.js.map": "/creative-lab/static/js/runtime-main.a85954ac.js.map",
     "static/css/2.885c3689.chunk.css": "/creative-lab/static/css/2.885c3689.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.7e28aa77.chunk.js.map": "/creative-lab/static/js/3.7e28aa77.chunk.js.map",
     "index.html": "/creative-lab/index.html",
     "static/css/2.885c3689.chunk.css.map": "/creative-lab/static/css/2.885c3689.chunk.css.map",
-    "static/css/main.25e7fdcb.chunk.css.map": "/creative-lab/static/css/main.25e7fdcb.chunk.css.map",
+    "static/css/main.6e7d6cb2.chunk.css.map": "/creative-lab/static/css/main.6e7d6cb2.chunk.css.map",
     "static/js/2.6baaab80.chunk.js.LICENSE.txt": "/creative-lab/static/js/2.6baaab80.chunk.js.LICENSE.txt",
     "static/media/background2.b72aac43.jpg": "/creative-lab/static/media/background2.b72aac43.jpg",
     "static/media/blue-section.c955de47.jpg": "/creative-lab/static/media/blue-section.c955de47.jpg",
@@ -28,7 +28,7 @@
     "static/media/sneakers.529b7bc3.png": "/creative-lab/static/media/sneakers.529b7bc3.png",
     "static/media/spazio-idee.83a55214.jpg": "/creative-lab/static/media/spazio-idee.83a55214.jpg",
     "static/media/speciale-natale.9778ac80.jpg": "/creative-lab/static/media/speciale-natale.9778ac80.jpg",
-    "static/media/test.24d5319b.jpg": "/creative-lab/static/media/test.24d5319b.jpg",
+    "static/media/test3.0632e219.jpg": "/creative-lab/static/media/test3.0632e219.jpg",
     "static/media/violet-section.3f72cb8c.jpg": "/creative-lab/static/media/violet-section.3f72cb8c.jpg",
     "static/media/pages.scss": "/creative-lab/static/media/watercolor-yellow.a968a4cd.jpg",
     "static/media/yellow-section.192e461e.jpg": "/creative-lab/static/media/yellow-section.192e461e.jpg"
@@ -37,7 +37,7 @@
     "static/js/runtime-main.a85954ac.js",
     "static/css/2.885c3689.chunk.css",
     "static/js/2.6baaab80.chunk.js",
-    "static/css/main.25e7fdcb.chunk.css",
-    "static/js/main.38d2e44d.chunk.js"
+    "static/css/main.6e7d6cb2.chunk.css",
+    "static/js/main.d246adb8.chunk.js"
   ]
 }
