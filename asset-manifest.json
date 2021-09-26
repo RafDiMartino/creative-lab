@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.a4b6512a.chunk.css",
-    "main.js": "/static/js/main.d246adb8.chunk.js",
-    "main.js.map": "/static/js/main.d246adb8.chunk.js.map",
+    "main.js": "/static/js/main.8e8dad0b.chunk.js",
+    "main.js.map": "/static/js/main.8e8dad0b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.06664403.js",
     "runtime-main.js.map": "/static/js/runtime-main.06664403.js.map",
     "static/css/2.885c3689.chunk.css": "/static/css/2.885c3689.chunk.css",
@@ -14,9 +14,9 @@
     "static/css/2.885c3689.chunk.css.map": "/static/css/2.885c3689.chunk.css.map",
     "static/css/main.a4b6512a.chunk.css.map": "/static/css/main.a4b6512a.chunk.css.map",
     "static/js/2.735a89c7.chunk.js.LICENSE.txt": "/static/js/2.735a89c7.chunk.js.LICENSE.txt",
-    "static/media/background2.b72aac43.jpg": "/static/media/background2.b72aac43.jpg",
     "static/media/blue-section.c955de47.jpg": "/static/media/blue-section.c955de47.jpg",
     "static/media/camera.a596c3d9.png": "/static/media/camera.a596c3d9.png",
+    "static/media/carousel-img.0632e219.jpg": "/static/media/carousel-img.0632e219.jpg",
     "static/media/centrotavola.bc6aef5a.png": "/static/media/centrotavola.bc6aef5a.png",
     "static/media/giftbox.3fc154be.png": "/static/media/giftbox.3fc154be.png",
     "static/media/green-section.f34a13f9.jpg": "/static/media/green-section.f34a13f9.jpg",
@@ -28,7 +28,6 @@
     "static/media/sneakers.529b7bc3.png": "/static/media/sneakers.529b7bc3.png",
     "static/media/spazio-idee.83a55214.jpg": "/static/media/spazio-idee.83a55214.jpg",
     "static/media/speciale-natale.9778ac80.jpg": "/static/media/speciale-natale.9778ac80.jpg",
-    "static/media/test3.0632e219.jpg": "/static/media/test3.0632e219.jpg",
     "static/media/violet-section.3f72cb8c.jpg": "/static/media/violet-section.3f72cb8c.jpg",
     "static/media/pages.scss": "/static/media/watercolor-yellow.a968a4cd.jpg",
     "static/media/yellow-section.192e461e.jpg": "/static/media/yellow-section.192e461e.jpg"
@@ -38,6 +37,6 @@
     "static/css/2.885c3689.chunk.css",
     "static/js/2.735a89c7.chunk.js",
     "static/css/main.a4b6512a.chunk.css",
-    "static/js/main.d246adb8.chunk.js"
+    "static/js/main.8e8dad0b.chunk.js"
   ]
 }
