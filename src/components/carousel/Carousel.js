@@ -6,6 +6,7 @@ import 'swiper/swiper.min.css';
 import "swiper/components/pagination/pagination.min.css"
 import "swiper/components/navigation/navigation.min.css"
 import BackgroundImg from "../../assets/background2.jpg"
+import Test from "../../assets/test3.jpg"
 
 SwiperCore.use([Navigation, Pagination]);
 
@@ -20,7 +21,7 @@ const Carousel = () => {
                 pagination={{ clickable: true }}
                 scrollbar={{ draggable: true }}
             >
-                <div slot="container-start" className="background-img" style={{ backgroundImage: `url(${BackgroundImg})` }}></div>
+                <div slot="container-start" className="background-img" style={{ backgroundImage: `url(${Test})` }}></div>
                 <SwiperSlide><p>Entra nel mondo della personalizzazione, navigando le pagine di questo sito troverai tante idee per meravigliosi regali.</p></SwiperSlide>
                 <SwiperSlide><p>Cammina con stile con meravigliose scarpe personalizzate, divertiti a giocare con svariati colori e infiniti temi che più ti rispecchiano.</p></SwiperSlide>
                 <SwiperSlide><p>In occasione di un evento importante stupisci con un regalo alternativo personalizzato, come le candele in cera decorate a mano.</p></SwiperSlide>

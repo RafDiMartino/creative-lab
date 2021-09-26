@@ -1,7 +1,7 @@
 {
   "name": "react-lab",
   "version": "0.1.0",
-  "homepage": "https://rafdimartino.github.io/creative-lab",
+  "homepage": "https://laboratoriocreativo.net",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.12.3",
