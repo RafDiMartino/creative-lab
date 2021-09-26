@@ -5,8 +5,7 @@ import "./carousel.scss"
 import 'swiper/swiper.min.css';
 import "swiper/components/pagination/pagination.min.css"
 import "swiper/components/navigation/navigation.min.css"
-import BackgroundImg from "../../assets/background2.jpg"
-import Test from "../../assets/test3.jpg"
+import Test from "../../assets/carousel.img.jpg"
 
 SwiperCore.use([Navigation, Pagination]);
 
