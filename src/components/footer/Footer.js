@@ -32,7 +32,7 @@ function Footer() {
                     </div>
                 </div>
             </div>
-            <p className="madeBy">website by &#9679; Raf Di Martino</p>
+            <p className="madeBy">&copy; 2021 Laboratorio Creativo | by Raffaele Di Martino</p>
         </div>
     )
 }
